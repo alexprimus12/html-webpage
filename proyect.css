@@ -1,0 +1,31 @@
+    
+    
+    
+    .containter-top{
+       background-color: rgb(134, 218, 159);
+       position: relative;
+       padding-top: 100%;
+    }
+
+    h1{
+    color: rgb(255, 255, 255);
+    font-size: 5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    text-align: center;
+    
+    
+    }
+    h2{
+    color: aliceblue;
+    font-size: 3rem;
+    position: absolute;
+    top: 17%;
+    left: 200px;
+    }
+    img{
+     position: absolute;
+     left: 159px;
+     top: 47%;
+     width: 400px;
+    }
